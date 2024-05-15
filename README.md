@@ -47,4 +47,15 @@ LEDs: They provide lighting for the house and garden.
 
 Male-Female Jumper Wires, Male-Male Jumper Wires: They are used to connect peripheral equipment such as sensors and motors.
 
+## Circuit Diagrams:
+
+![image](https://github.com/zeynepclktn/SmartHouse/assets/34071397/e8aca31f-0d0f-49cd-b6a5-7d777af401ac)
+
+![image](https://github.com/zeynepclktn/SmartHouse/assets/34071397/4f9e134d-8b06-4787-a386-66afd986b7e9)
+
+## House : 
+
+![image](https://github.com/zeynepclktn/SmartHouse/assets/34071397/384854d4-b067-4345-ac8d-78de912f79cd)
+
+
 
